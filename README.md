@@ -18,3 +18,8 @@ funkcje w projekcie:
 -podgląd kursów walut (z NBP)
 -sprzaż i kupno walut
 -wpłaty na konto (stripe)
+
+
+uwagi:
+-hasło podane przy rejestracji musi mieć co najmniej 6 znaków
+-przykładowy numer karty dla płatności: 4242 4242 4242 4242
